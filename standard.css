@@ -1,0 +1,124 @@
+body {
+     background: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.nikeshoebot.com%2Fwp-content%2Fuploads%2F2019%2F07%2FPile-of-Jordan-sneakers.jpg&f=1&nofb=1) !important;
+     background-size: cover !important;
+    background-color: black !important;
+}
+
+
+.col-md-12 {
+    background-color: rgba(255,255,255,0.8);
+    margin-top:20px;
+    padding-top:10px;
+    padding-bottom:10px;
+    border-radius:5px;
+}
+
+.navContainer {
+    display: flex;
+    justify-content: center;
+    color: #564a4a;
+
+}
+.navbar-default {
+    display: flex;
+    font-size: 30px;
+    justify-content: center;
+    background-color: rgba(245, 92, 71, .9);
+    border-color: rgb(86, 74, 74);
+    width: 50%;
+    border-radius: 5px;
+    margin-top: 20px;
+    font-family: 'Mate SC', serif;
+}
+
+ .nav.navbar-nav.flex-fill li a {
+    color: rgba(86, 74, 74,1)!important;
+}
+
+ .nav.navbar-nav.flex-fill li a:hover {
+    color: #292424 !important;
+}
+
+.home {
+    margin-right:50px;
+}
+
+.header {
+        font-size: 56px;
+        text-align: center;
+        color: rgba(86, 74, 74,1);
+        font-family: 'Mate SC', serif;
+        font-weight: bold;
+}
+
+
+.card-container {
+    display: flex;
+    justify-content: center;
+}
+.card-header {
+    font-size: 40px;
+    text-align: center;
+    color: rgba(86, 74, 74,1);
+    background-color: rgba(245, 92, 71, .9) !important;
+    border-radius: 5px;
+    border-color: rgb(86, 74, 74);
+    font-family: 'Mate SC', serif;
+}
+
+.card-body {
+    background-color: rgba(159, 230, 160, .9);
+    padding: 10px;
+    border-radius: 5px;
+    border-color: rgb(86, 74, 74);
+}
+
+.card-title {
+    opacity: .7;
+    font-size: 20px;
+    font-family: 'PT Serif', serif;
+}
+.card-text {
+    margin-top: 30px;
+    font-family: 'PT Serif', serif;
+    font-size: 18px;
+
+}
+
+.buttonContainer form {
+    display: inline-block;
+    margin-top: 15px;
+
+}
+.btn {
+    font-family: 'PT Serif', serif;
+}
+
+.deleteButt {
+    background-color: rgba(245, 92, 71,.8);
+    color: rgb(86, 74, 74);
+}
+
+.deleteButt:hover{
+    background-color: rgb(245, 92, 71);
+}
+
+.editButt {
+    background-color: #71adc1;
+    color: rgb(86, 74, 74);
+}
+
+.editButt:hover {
+    background-color: #4b92aa;
+}
+
+.submitNew {
+    background-color: #71adc1;
+    color: rgb(86, 74, 74);
+}
+
+.submitNew:hover {
+    background-color: #4b92aa;
+}
+
+
